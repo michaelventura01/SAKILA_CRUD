@@ -14,8 +14,8 @@
 ```
 
 #### Se requiere tener dos bases de datos para su uso
-- mysql script/script_sakila_mysql.sql
-- postgree: script/script_sakila_dwh_postgree.sql
+- <b>mysql</b>: script/script_sakila_mysql.sql
+- <b>postgree</b>: script/script_sakila_dwh_postgree.sql
 
 
 ### Fichero
