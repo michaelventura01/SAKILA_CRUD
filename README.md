@@ -1,4 +1,4 @@
-# PROYECTO DE CRUD DE BSAE DE DATOS SAKILA
+# PROYECTO DE CRUD DE BASE DE DATOS SAKILA
 ### OBJETIVO 
 #### Se busca utilizar las practicas para lectura de datos desde unos origenes, manipularlos y luego cargarlos utilizando python
 
