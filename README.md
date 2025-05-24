@@ -11,11 +11,11 @@
 ```
   pip install SAKILA_CRUD/SAKILA_ETL/requirements.txt
   pip install SAKILA_CRUD/SAKILA_REPORTERIA/requirements.txt
-
 ```
+
 #### Se requiere tener dos bases de datos para su uso
-- mysql
-- postgree
+- mysql script/script_sakila_mysql.sql
+- postgree: script/script_sakila_dwh_postgree.sql
 
 
 ### Fichero
