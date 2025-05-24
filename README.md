@@ -89,3 +89,5 @@ SAKILA_CRUD
 ### EJECUCION DE PEPORTERIA
 ![image](https://github.com/user-attachments/assets/0390fc40-5bfd-4cc1-a507-db8c42eb8cc8)
 
+### MANEJO DE CONFIGURACION
+#### Existen dos proyectos en uno, donde cada aplicacion cuenta con su dominio, para los fines cada apartado cuenta con su config.ini, el cual es usado para manejo de configuraciones
