@@ -1,0 +1,33 @@
+Consigna de Queries de practica 01: "Caso práctico 1:   En Mysql con  base de datos Sakila hacer gestión CRUD"
+
+. MySQL https://dev.mysql.com/downloads/windows/installer/  
+	Windows (x86, 32-bit), MSI Installer
+. IDE Workbentch https://dev.mysql.com/downloads/workbench/
+	Windows (x86, 64-bit), MSI Installer
+. Sakila sample DB: https://dev.mysql.com/doc/index-other.html
+	sakila database --> zip
+
+***** LOS 10 QUERIEX:
+1) Haga un query que presente los últimos 10 países, cuyas cantidad de ciudades son mayores que 2. Preséntelos en
+forma descendentemente.
+
+2) Presente todas las películas conjuntamente con la cantidad de ciudades distintas donde se han rentado, el total de dinero en 2006, asi el total de dinero en 2005. Debes sacar el % de crecimiento en los dos años.
+
+3) Auxiliando de la clausula Exist o IN, saque la lista de películas que se rentaron más de 19 veces, la rima de la los pais donde se rento es asonante [termina en vocal] y nunca se han rentado en países de rima consonante [termina en consonante]       
+
+4)Presente todas las ciudades por país, sujeto a que en el país (nombre) exista 'eri'. Presentar ascendentemente por país y ciudad.
+
+5) De la tabla film presentar las películas que son PG-13, PG, PG-17 y el rental_duration está entre 4 y 7. Presentar la categoría de la película y ordenar por esta.
+
+6) Presentar los clientes con su dirección, indicando país y ciudad. Ordenar por país, ciudad y
+nombre de cliente.
+
+7) Presentar todas las categorías (únicas) de film que tienen películas PG-13.
+
+8) Presentar el total dinero recaudado por película, el precio promedio de renta, el nombre y apellido del primer actor y segundo actor, de aquellas películas cuyo elenco tenga dos o mas integrantes.
+
+9) Presentar la renta por Store (tienda) sujeto a que el dinero pagado (recaudado por la tienda)
+sea mayor que 5000.
+
+10) Presente los clientes con su total de compra (dinero), cantidad de películas, sujeto a que hayan rentado más de 29 películas y el dinero sea superior $150. Dicho query debe ser etiquetado como ranking = '01-Premiun Customer' y presentado conjuntamente con:
+	---> los clientes cuyo total de compra (dinero) este por debajo de $65 o solo hayan rentado menos de 15 pelóculas. Este segundo query debe ser etiquetado como Ranking='02-Low Customer'.
