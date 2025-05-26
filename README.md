@@ -1,6 +1,6 @@
 # PROYECTO DE CRUD DE BASE DE DATOS SAKILA
 ### OBJETIVO 
-#### Se busca utilizar las practicas para lectura de datos desde unos origenes, manipularlos y luego cargarlos utilizando python
+<p> Se busca utilizar las practicas para lectura de datos desde unos origenes, manipularlos y luego cargarlos utilizando python</p>
 
 ### Detalles
 #### Este proyecto cuenta con dos bloques:
@@ -90,4 +90,4 @@ SAKILA_CRUD
 ![image](https://github.com/user-attachments/assets/0390fc40-5bfd-4cc1-a507-db8c42eb8cc8)
 
 ### MANEJO DE CONFIGURACION
-#### Existen dos proyectos en uno, donde cada aplicacion cuenta con su dominio, para los fines cada apartado cuenta con su config.ini, el cual es usado para manejo de configuraciones
+<p>Existen dos proyectos en uno, donde cada aplicacion cuenta con su dominio, para los fines cada apartado cuenta con su config.ini, el cual es usado para manejo de configuraciones</p>
