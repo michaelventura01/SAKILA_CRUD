@@ -86,7 +86,7 @@ SAKILA_CRUD
 ### EJECUCION DE ETL
 ![image](https://github.com/user-attachments/assets/bdd20de3-f71c-487e-95d3-c7d10536501f)
 
-### EJECUCION DE PEPORTERIA
+### EJECUCION DE REPORTERIA
 ![image](https://github.com/user-attachments/assets/0390fc40-5bfd-4cc1-a507-db8c42eb8cc8)
 
 ### MANEJO DE CONFIGURACION
